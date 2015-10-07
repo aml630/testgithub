@@ -1,3 +1,6 @@
 # testgithub
 my test github
-fasdf
+test this is a repo for showing how to use github
+
+
+iasdfa
